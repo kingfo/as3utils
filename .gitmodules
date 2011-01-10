@@ -1,0 +1,7 @@
+[submodule "tools/as3reflection"]
+	path = libs/as3reflection
+	url = git@github.com:kingfo/as3reflection.git
+
+[submodule "libs/asunit"]
+	path = tools/asunit
+	url = git@github.com:kingfo/asunit.git
